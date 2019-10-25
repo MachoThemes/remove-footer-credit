@@ -7,12 +7,36 @@ $plugins = array(
 		'more'        => 'https://wordpress.org/plugins/modula-best-grid-gallery/',
 		'image'       => 'modula.jpg',
 	),
-	'simple-author-box' => array(
-		'title'       => esc_html__( 'Simple Author Box', 'remove-footer-credit' ),
-		'description' => esc_html__( 'Simple Author Box adds a responsive author box at the end of your posts, showing the author name, author gravatar and author description. It also adds over 30 social profile fields on WordPress user profile screen, allowing to display the author social icons.', 'remove-footer-credit' ),
-		'more'        => 'https://wordpress.org/plugins/simple-author-box/',
-		'image'       => 'sab.png',
-	),
+    'strong-testimonials' => array(
+        'title'       => esc_html__( 'Strong Testimonials', 'remove-footer-credit' ),
+        'description' => esc_html__( 'Simple yet powerful. Very customizable. Developer-friendly.', 'remove-footer-credit' ),
+        'more'        => 'https://wordpress.org/plugins/strong-testimonials/',
+        'image'       => 'strong-testimonials.png',
+    ),
+    'media-manager-plus' => array(
+        'title'       => esc_html__( 'Media Manager Plus', 'remove-footer-credit' ),
+        'description' => esc_html__( 'Upgrade the WordPress Media Manager and add support for Flickr, Instagram, 500px, Facebook etc.', 'remove-footer-credit' ),
+        'more'        => 'https://wordpress.org/plugins/uber-media/',
+        'image'       => 'media-manager-plus.svg',
+    ),
+    'uber-recaptcha' => array(
+        'title'       => esc_html__( 'Uber reCaptcha', 'remove-footer-credit' ),
+        'description' => esc_html__( 'This plugin adds the reCaptcha form to the WordPress login form, recover password form, register…', 'remove-footer-credit' ),
+        'more'        => 'https://wordpress.org/plugins/uber-nocaptcha-recaptcha/',
+        'image'       => 'uber-recaptcha.jpg',
+    ),
+    'wider-admin-menu' => array(
+        'title'       => esc_html__( 'Wider Admin Menu', 'remove-footer-credit' ),
+        'description' => esc_html__( 'Let your admin menu breathe', 'remove-footer-credit' ),
+        'more'        => 'https://wordpress.org/plugins/wider-admin-menu/',
+        'image'       => 'wider-admin-menu.png',
+    ),
+    'debug-this' => array(
+        'title'       => esc_html__( 'Debug This', 'remove-footer-credit' ),
+        'description' => esc_html__( 'Peek under the hood with sixty debugging reports just one click away.', 'remove-footer-credit' ),
+        'more'        => 'https://wordpress.org/plugins/debug-this/',
+        'image'       => 'debug-this.png',
+    ),
 );
 
 if ( ! function_exists( 'get_plugins' ) || ! function_exists( 'is_plugin_active' ) ) {
