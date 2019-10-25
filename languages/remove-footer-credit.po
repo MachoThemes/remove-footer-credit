@@ -2,10 +2,10 @@
 # This file is distributed under the GPLv3 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Remove Footer Credit 1.0.5\n"
+"Project-Id-Version: Remove Footer Credit 1.0.6\n"
 "Report-Msgid-Bugs-To: "
 "https://wordpress.org/support/plugin/remove-footer-credit\n"
-"POT-Creation-Date: 2019-10-09 14:44:32+00:00\n"
+"POT-Creation-Date: 2019-10-25 11:06:00+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -64,7 +64,7 @@ msgid ""
 msgstr ""
 
 #: sections/plugin-info.php:3
-msgid "Need help using this plugin or want to report a bug? Contact me"
+msgid "Need help using this plugin or want to report a bug? Contact us"
 msgstr ""
 
 #: sections/plugin-info.php:3
@@ -95,30 +95,62 @@ msgid ""
 msgstr ""
 
 #: sections/plugins.php:11
-msgid "Simple Author Box"
+msgid "Strong Testimonials"
 msgstr ""
 
 #: sections/plugins.php:12
-msgid ""
-"Simple Author Box adds a responsive author box at the end of your posts, "
-"showing the author name, author gravatar and author description. It also "
-"adds over 30 social profile fields on WordPress user profile screen, "
-"allowing to display the author social icons."
+msgid "Simple yet powerful. Very customizable. Developer-friendly."
 msgstr ""
 
-#: sections/plugins.php:40
+#: sections/plugins.php:17
+msgid "Media Manager Plus"
+msgstr ""
+
+#: sections/plugins.php:18
+msgid ""
+"Upgrade the WordPress Media Manager and add support for Flickr, Instagram, "
+"500px, Facebook etc."
+msgstr ""
+
+#: sections/plugins.php:23
+msgid "Uber reCaptcha"
+msgstr ""
+
+#: sections/plugins.php:24
+msgid ""
+"This plugin adds the reCaptcha form to the WordPress login form, recover "
+"password form, register…"
+msgstr ""
+
+#: sections/plugins.php:29
+msgid "Wider Admin Menu"
+msgstr ""
+
+#: sections/plugins.php:30
+msgid "Let your admin menu breathe"
+msgstr ""
+
+#: sections/plugins.php:35
+msgid "Debug This"
+msgstr ""
+
+#: sections/plugins.php:36
+msgid "Peek under the hood with sixty debugging reports just one click away."
+msgstr ""
+
+#: sections/plugins.php:64
 msgid "Install & Activate"
 msgstr ""
 
-#: sections/plugins.php:49 sections/plugins.php:74
+#: sections/plugins.php:73 sections/plugins.php:98
 msgid "Activated"
 msgstr ""
 
-#: sections/plugins.php:53
+#: sections/plugins.php:77
 msgid "Activate"
 msgstr ""
 
-#: sections/plugins.php:76
+#: sections/plugins.php:100
 msgid "Find out more"
 msgstr ""
 
