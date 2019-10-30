@@ -10,7 +10,7 @@
  * License URI:       		http://www.gnu.org/licenses/gpl-3.0.html
  * Requires PHP: 			5.6
  * Text Domain: 			remove-footer-credit
- * Tested up to:            5.2
+ * Tested up to:            5.3
  *
  * Copyright 2016-2017		Joe Bill			joe@upwerd.com
  * Copyright 2017-2019 		MachoThemes 		office@machothemes.com
